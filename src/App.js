@@ -4,7 +4,7 @@ import AddTodoForm from './components/AddTodoForm'
 import Todos from './components/Todos'
 
 const Wrapper = styled.div`
-  padding: 32px;
+  padding: 16px;
 `
 
 const Subtitle = styled.h2`
